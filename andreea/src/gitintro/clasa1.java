@@ -1,4 +1,4 @@
 package gitintro;
 
-public class clasa1
+public class clasa1 {
 }
